@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A simple, clean, and intuitive todo list application to manage daily tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
